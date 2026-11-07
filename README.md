@@ -12,6 +12,9 @@
 - Патерн Singltone
 - Патерн ObjectPool (от unity)
 
+## Асеты:
+- [Office Pack - Free](https://assetstore.unity.com/packages/3d/props/interior/office-pack-free-258600)
+
 ## Структура:
  ### Assets/My/Script
  - AudioModule - Оброботчик столкновений. Есть зависимости от наличие HitSourcePoolManager
