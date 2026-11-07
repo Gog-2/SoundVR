@@ -1,6 +1,9 @@
 # Untiy Sound Тестовое
 ## Стек:
 - [Unity 6000.3.18f1 LTS](https://unity.com/releases/editor/whats-new/6000.3.18f1#installs)
+  - URP
+  - OpenXR
+  - XR Interaction Toolkit
 - [Steam Audio](https://valvesoftware.github.io/steam-audio/) (Пространственое аудио)
 - [UniTask](https://github.com/cysharp/unitask) (Кулдаун для Object Pool в "HitSource")
 
