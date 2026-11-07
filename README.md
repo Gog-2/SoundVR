@@ -6,6 +6,7 @@
   - XR Interaction Toolkit
 - [Steam Audio](https://valvesoftware.github.io/steam-audio/) (Пространственое аудио)
 - [UniTask](https://github.com/cysharp/unitask) (Кулдаун для Object Pool в "HitSource")
+- [ProBuilder](https://docs.unity3d.com/Packages/com.unity.probuilder@6.1/manual/installing.html) (создание основы карты)
 
 ## Использовано в коде:
 - [Конвенция майкросфт C#](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
